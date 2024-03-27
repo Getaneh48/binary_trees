@@ -1,5 +1,5 @@
-#ifndef BTREE
-#define BTREE
+#ifndef BTREE_H
+#define BTREE_H
 /**
  * struct binary_tree_s - Binary tree node
  *
